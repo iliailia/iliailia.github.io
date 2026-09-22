@@ -129,3 +129,10 @@ a.video:visited{
 a.video:hover{
 	background-color: #387EB9;
 }
+
+hr.sep{
+	border: none;
+	border-top: 1px solid #DDDDDD;
+	margin: 10px 0 10px 0;
+	width: 160px;
+}
